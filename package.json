@@ -1,0 +1,28 @@
+{
+  "name": "jello-postpackager-seazbj",
+  "version": "0.0.1",
+  "description": "这是一个个人用于测试的js工具包-simplified。",
+  "main": "a.js",
+  "scripts": {
+    "test": "var a=require(\"./b\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wzyinghid/jello-postpackager-seazbj.git"
+  },
+  "keywords": [
+    "seazbj"
+  ],
+  "author": {
+    "name": "Zain"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzyinghid/jello-postpackager-seazbj"
+  },
+  "homepage": "https://github.com/wzyinghid/riscjs",
+  "readme": "ERROR: No README data found!",
+  "_id": "seazbj@0.0.1",
+  "_shasum": "04ef0e65d2245dcf3ffc62aeb42d87fce148bb744",
+  "_from": "979459876@qq.com"
+}
