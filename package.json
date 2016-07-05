@@ -1,7 +1,7 @@
 {
   "name": "jello-postpackager-seazbj",
   "version": "0.0.1",
-  "description": "这是一个个人用于测试的js工具包-simplified。",
+  "description": "seazbj压缩",
   "main": "a.js",
   "scripts": {
     "test": "var a=require(\"./b\")"
